@@ -9,5 +9,8 @@
 <body>
 <h2>Home</h2>
 <a href="/test">Test</a>
+
+<a href="Menus/List">메뉴 목록</a><br>
+     <a href="Menus/WriteForm">새 메뉴 추가</a><br>
 </body>
 </html>
